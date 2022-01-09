@@ -1,5 +1,6 @@
 ### Hi there, you can call me Alv 🦸‍♂️👋
 
+- 📌 I'm from Brazil.
 - 🔭 I’m currently working in a ISP. 
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 🐱‍👤 I'll soon start learning JS frameworks, TypeScript and Python.
