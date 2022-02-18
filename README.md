@@ -2,8 +2,8 @@
 
 - 📌 I'm from Brazil.
 - 🔭 I’m currently working in a ISP. 
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
-- 🐱‍👤 I'll soon start learning JS frameworks, TypeScript and Python.
+- 🌱 I’m currently learning JavaScript, HTML, CSS and Python.
+- 🐱‍👤 I'll soon start learning JS frameworks and TypeScript.
 - ⚡ Fun fact: All my facts are fun 😉.
 
 
