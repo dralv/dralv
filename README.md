@@ -1,9 +1,10 @@
 ### Hi there, you can call me Alv 🦸‍♂️👋
 
 - 📌 I'm from Brazil.
-- 🔭 I’m currently working in a ISP. 
-- 🌱 I’m currently learning JavaScript, HTML, CSS and Python.
-- 🐱‍👤 I'll soon start learning JS frameworks and TypeScript.
+- 🔭 I’m currently working at Framework Digtal:purple_heart:. 
+- 🌱 My main technology is .NET :computer:.
+- 🐱‍ I love Python :snake: and Front-End development :art:.
+- 💁 In my free time I enjoy reading :books:, practicing martial arts :facepunch: and watch a good sitcom :tv:. 
 - ⚡ Fun fact: All my facts are fun 😉.
 
 
